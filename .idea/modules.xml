@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Zad1/Zad1.iml" filepath="$PROJECT_DIR$/Zad1/Zad1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zad2 - Running/Zad2 - Running.iml" filepath="$PROJECT_DIR$/Zad2 - Running/Zad2 - Running.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zad3 Ksiazka/Zad3 Ksiazka.iml" filepath="$PROJECT_DIR$/Zad3 Ksiazka/Zad3 Ksiazka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zad4 BJ/Zad4 BJ.iml" filepath="$PROJECT_DIR$/Zad4 BJ/Zad4 BJ.iml" />
+    </modules>
+  </component>
+</project>
